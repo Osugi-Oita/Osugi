@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python -m http.server -b 0.0.0.0
+python3 -m http.server -b 0.0.0.0
